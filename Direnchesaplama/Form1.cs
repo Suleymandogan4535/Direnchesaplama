@@ -47,7 +47,6 @@ namespace Direnchesaplama
                 lblSonuc.Text = Convert.ToString(mosonuc);
             }
 
-
         }
     }
 }
